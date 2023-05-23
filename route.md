@@ -1,0 +1,16 @@
+# WebApps mejores frameworks segun Chat-GPT
+- Angular
+  - Desarrollado por Google
+  - Para Single-Page-Applications SPAs
+  - Lenguaje: TypeScript   
+- React
+  - Desarrollada por Facebook
+  - Lenguaje: JavaScript
+- Vue.js
+  - Lenguaje: JavaScript
+- Django
+  - Baterias incluidas, funcionalidades ready to go
+  - Lenguaje: Python
+- Ruby on Rails
+  - Convención sobre configuración, cosas predefinidas
+  - Lenguaje: Ruby
