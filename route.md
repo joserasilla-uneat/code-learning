@@ -2,15 +2,21 @@
 - Angular
   - Desarrollado por Google
   - Para Single-Page-Applications SPAs
-  - Lenguaje: TypeScript   
+  - Lenguaje: TypeScript 
+  - [Documentación](https://angular.io/)
 - React
   - Desarrollada por Facebook
   - Lenguaje: JavaScript
+  - [Documentación](https://es.react.dev/)
 - Vue.js
   - Lenguaje: JavaScript
+  - [Documentación](https://vuejs.org/)
 - Django
   - Baterias incluidas, funcionalidades ready to go
   - Lenguaje: Python
+  - [Documentación](https://www.djangoproject.com/)
 - Ruby on Rails
   - Convención sobre configuración, cosas predefinidas
   - Lenguaje: Ruby
+  - [Documentación](https://rubyonrails.org/)
+  - [Implementación en JetBrains](https://www.jetbrains.com/ruby/promo/?source=google&medium=cpc&campaign=10105984019&term=ruby%20on%20rails&content=602910810909&gad=1&gclid=EAIaIQobChMIx6D7q6uL_wIV1JNoCR2LTggVEAAYASAAEgJMxPD_BwE)
